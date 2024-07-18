@@ -33,22 +33,22 @@ _Python_: The primary language for data analysis, model development, and impleme
 
 **Data Handling and Analysis:**\
 _Pandas_: For data manipulation and analysis, including data cleaning, transformation, and exploration.\
-_NumPy_: For numerical computations and handling arrays.\
+_NumPy_: For numerical computations and handling arrays.
 
 **Data Visualization:**\
 _Matplotlib_: For creating static, interactive, and animated visualizations.\
-_Seaborn_: For statistical data visualization, making it easier to plot complex graphs.\
+_Seaborn_: For statistical data visualization, making it easier to plot complex graphs.
 
 **Machine Learning Libraries:**\
-_Scikit-learn_: For implementing linear regression models, feature selection, model evaluation, and validation.\
+_Scikit-learn_: For implementing linear regression models, feature selection, model evaluation, and validation.
 
 **Data Preprocessing:**\
-_Scikit-learn Preprocessing_: For scaling, encoding categorical variables, and handling missing values.\
+_Scikit-learn Preprocessing_: For scaling, encoding categorical variables, and handling missing values.
 
 **Model Evaluation:**\
-_Scikit-learn Metrics_: For calculating evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.\
+_Scikit-learn Metrics_: For calculating evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
 
 **Integrated Development Environment (IDE):**\
-_Colab Notebook_: For interactive development, data exploration, and visualization.\
+_Colab Notebook_: For interactive development, data exploration, and visualization.
 
 
